@@ -68,7 +68,7 @@ public class LoginPage {
 	
 	public static void main(String[] args) {
 		
-		LoginPage lp = new LoginPage("AK", "AK_PASS");
+		LoginPage lp = new LoginPage("akzidani", "ak_pass");
 		lp.startFireFoxTest();
 		//lp.startChromeTesT();
 		
